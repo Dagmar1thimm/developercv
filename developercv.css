@@ -1,0 +1,16 @@
+h1 {
+	font-weight: 750;
+	color: #0099ff;
+}
+
+#home {
+	background-image: url(../images/edge.jpg);
+	background-attachment: fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+	background-size: cover;
+	background-size: cover;
+	width: 100%;
+	display: block;
+	height: 100%;
+}
